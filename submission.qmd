@@ -1,6 +1,6 @@
 ---
 title: "QML 2026 Data analysis report"
-author: "GROUP NUMBER"
+author: "GROUP 8"
 date: last-modified
 format:
   html: default
@@ -10,7 +10,7 @@ format:
 |                     |                                                 |
 |---------------------|-------------------------------------------------|
 | Group Project title | THE PROJECT TITLE                               |
-| Group members       | MEMBER 1, MEMBER 2, MEMBER 3 (use EXAM NUMBERS) |
+| Group members       |  B217856, B312715, B312771, B250318             |
 
 ## Background
 
